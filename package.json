@@ -1,0 +1,15 @@
+{
+  "name": "electron-fiddles",
+  "productName": "electron-fiddles",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "ulrikan",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^41.0.0"
+  }
+}
